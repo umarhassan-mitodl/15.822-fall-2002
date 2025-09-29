@@ -4,6 +4,8 @@ description: Problem Set 15.822 Strategic Market Measurement
 file: /courses/15-822-strategic-marketing-measurement-fall-2002/dc393c15729a52a2f2cc7cd3b99c112d_assignment_6.pdf
 file_size: 109535
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
