@@ -4,8 +4,6 @@ description: Assignment 1
 file: /courses/15-822-strategic-marketing-measurement-fall-2002/1c03ea0c5e5ab5436772b057123a93c4_assignment_1.pdf
 file_size: 23010
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

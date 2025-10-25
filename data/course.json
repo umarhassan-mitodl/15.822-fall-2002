@@ -22,7 +22,6 @@
     "website": "15-822-strategic-marketing-measurement-fall-2002"
   },
   "course_title": "Strategic Marketing Measurement",
-  "hide_download": true,
   "course_description": "Marketing research may be divided into methods that emphasize understanding \"the customer\" and methods that emphasize understanding \"the market.\" This course (15.822) deals with the market. The companion course (15.821) deals with the customer.\n\nThe course will teach you how to write, conduct and analyze a marketing research survey. The emphasis will be on discovering market structure and segmentation, but you can pursue other project applications.\n\nA major objective of the course is to give you some \"hands-on\" exposure to analysis techniques that are widely used in consulting and marketing research factor analysis, perceptual mapping, conjoint, and cluster analysis). These techniques used to be considered advanced but now involve just a few keystrokes on most stat software packages.\n\nThe course assumes familiarity with basic probability, statistics, and multiple linear regression.\n",
   "department_numbers": [
     "15"
@@ -33,7 +32,6 @@
     "content": "abbacae0-14b3-e739-0f71-43909dfaf8e1",
     "website": "15-822-strategic-marketing-measurement-fall-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"
